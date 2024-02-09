@@ -1,0 +1,2 @@
+Guid,AccountId,SuppliedName,SuppliedEmail,SuppliedPhone,SuppliedCompany,Type,Status,Reason,Origin,Subject,Priority,Description,ClosedDate,IsEscalated,Comments
+ed914597-f88b-4219-867e-4aa8d6237b30,319da0e5-f83c-4446-a8fc-5594fdfb31a2,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Phone,CaSe 1,Medium,#N/A,#N/A,false,#N/A
