@@ -158,7 +158,7 @@
         <label>custom_object Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>custom_objects</pluralLabel>
+    <pluralLabel>cutsom_objects</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

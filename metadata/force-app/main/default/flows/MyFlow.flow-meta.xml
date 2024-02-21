@@ -27,13 +27,13 @@
         <locationX>50</locationX>
         <locationY>0</locationY>
         <connector>
-            <targetReference>c</targetReference>
+            <targetReference>ddjd</targetReference>
         </connector>
     </start>
     <status>Draft</status>
     <subflows>
-        <name>c</name>
-        <label>c</label>
+        <name>ddjd</name>
+        <label>ddjd</label>
         <locationX>176</locationX>
         <locationY>158</locationY>
         <flowName>omnichannel_chat__QueuesChat</flowName>

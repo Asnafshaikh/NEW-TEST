@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>11.16regression</label>
     <nameField>
-        <label>reg11.16 Name</label>
+        <label>11.16regression Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>11.16regressions</pluralLabel>

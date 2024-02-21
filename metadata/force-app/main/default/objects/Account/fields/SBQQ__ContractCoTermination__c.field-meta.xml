@@ -10,6 +10,7 @@
     <trackFeedHistory>false</trackFeedHistory>
     <type>Picklist</type>
     <valueSet>
+        <controllingField>AL_Picklist__c</controllingField>
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
@@ -28,5 +29,29 @@
                 <label>Prompt</label>
             </value>
         </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>123</controllingFieldValue>
+            <controllingFieldValue>345</controllingFieldValue>
+            <controllingFieldValue>567</controllingFieldValue>
+            <controllingFieldValue>789</controllingFieldValue>
+            <controllingFieldValue>900</controllingFieldValue>
+            <valueName>Never</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>123</controllingFieldValue>
+            <controllingFieldValue>345</controllingFieldValue>
+            <controllingFieldValue>567</controllingFieldValue>
+            <controllingFieldValue>789</controllingFieldValue>
+            <controllingFieldValue>900</controllingFieldValue>
+            <valueName>Always</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>123</controllingFieldValue>
+            <controllingFieldValue>345</controllingFieldValue>
+            <controllingFieldValue>567</controllingFieldValue>
+            <controllingFieldValue>789</controllingFieldValue>
+            <controllingFieldValue>900</controllingFieldValue>
+            <valueName>Prompt</valueName>
+        </valueSettings>
     </valueSet>
 </CustomField>
