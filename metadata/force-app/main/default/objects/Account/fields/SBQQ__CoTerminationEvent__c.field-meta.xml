@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>SBQQ__CoTerminationEvent__c</fullName>
-    <businessStatus>Active</businessStatus>
     <deprecated>false</deprecated>
     <description>Determines when contracts are co-terminated.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Determines when contracts are co-terminated ( change description here)</inlineHelpText>
+    <inlineHelpText>Determines when contracts are co-terminated.</inlineHelpText>
     <label>Co-Termination Event</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
